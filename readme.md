@@ -9,5 +9,4 @@ PyGame 2.0.0.dev6
 
 ## Screenshot
 
-![Screenshot of the example game]
-(https://github.com/mechbear14/bear-berries/raw/master/screenshot.png)
+![Screenshot of the example game](https://github.com/mechbear14/bear-berries/raw/master/screenshot.png)
